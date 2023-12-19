@@ -1,0 +1,15 @@
+#@ 03-08-2022
+
+The main topic discussed in the example
+is "interpolation".
+It will appear quite often throughout the course.
+We also used BIND 
+We can call a method in html
+
+Features: 
+- interpolation
+- result of methods called
+- v-bind directive
+- v-html
+
+Vue use a declerative approach.
